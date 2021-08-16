@@ -1,0 +1,19 @@
+{
+  "name": "nodefiles",
+  "version": "14.17.5",
+  "description": "simple web app",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madhavmenon26/Intro-to-node.git"
+  },
+  "author": "Madhav Menon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/madhavmenon26/Intro-to-node/issues"
+  },
+  "homepage": "https://github.com/madhavmenon26/Intro-to-node#readme"
+}
